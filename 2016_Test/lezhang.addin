@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<--!
+NOTE: You need to edit <Assembly> to point to the correct dll location.
+-->
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>LeZhangCommandTest</Text>
+    <FullClassName>Logos.Revit.ECTest</FullClassName>
+    <Assembly>C:\zhangle\OneDrive\Autodesk\RevitAPI\RevitAPI\2016_Test\bin\Debug\2016_Test.dll</Assembly>
+    <AddInId>3B2F57A8-E3E7-4C58-AC3F-3183AAC997B3</AddInId>
+    <VendorId>LZNT</VendorId>
+    <VendorDescription>LeZhang.net</VendorDescription>
+  </AddIn>
+</RevitAddIns>
